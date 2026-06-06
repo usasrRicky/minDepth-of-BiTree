@@ -1,6 +1,7 @@
 
 # Minimum Depth of Binary Tree
 This repository includes basic algorithms to calculate the min depth of a BiTree.
+
 The **minimum depth** of a binary tree refers to the number of nodes along the shortest path from the root node down to the nearest leaf node.
 
 ## Approaches
